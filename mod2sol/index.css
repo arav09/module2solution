@@ -1,6 +1,7 @@
 .row
 {
 	width: 100%;
+	background-color: red;
 	
 	
 	
@@ -24,7 +25,8 @@ p
 	border: 2px solid black;
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
 
-	background-color: grey;
+	
 	
 	
